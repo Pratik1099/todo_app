@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "193618928099",
+    "project_id": "todolist-aaa21",
+    "storage_bucket": "todolist-aaa21.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:193618928099:android:a4a6e1c802bf9c756ec0d6",
+        "android_client_info": {
+          "package_name": "com.pratikagrawal.todo_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "193618928099-2cv9om23q2em10ni4i7m4e6rngehun9q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyATonHl37e83-KkiQNZg5M4E65jVjjb6YU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "193618928099-2cv9om23q2em10ni4i7m4e6rngehun9q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
